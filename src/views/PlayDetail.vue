@@ -162,6 +162,9 @@ export default {
 
 .video-title {
   text-align: center;
+  padding-top: 0.6rem;
+  color: dodgerblue;
+  font-weight: bold;
 }
 
 .video-remark {
